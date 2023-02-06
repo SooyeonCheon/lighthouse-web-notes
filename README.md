@@ -2,4 +2,5 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Sooyeon for the Lighthouse Labs Web Devlopment Bootcamp.
+This repository contains all of the notes taken by [Sooyeon](https://github.com/SooyeonCheon)  for the Lighthouse Labs Web Devlopment Bootcamp.
+
